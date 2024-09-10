@@ -1,0 +1,16 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "main": "alex.js",
+  "scripts": {
+    "test": "/tes"
+  },
+  "author": "MiT",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.58.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.25.0"
+  },
+  "description": ""
+}
