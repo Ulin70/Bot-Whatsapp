@@ -5,4 +5,4 @@ how to run
 3. npm install whatsapp-web.js
 4. node alex.js
 
-5.and done
+5. and done
